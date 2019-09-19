@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Grocery Shopping Application</string>
+    <string name="menuFile">menuFile</string>
+    <string name="menuEdit">menuEdit</string>
+    <string name="menuHelp">menuHelp</string>
+    <string name="menuExit">menuExit</string>
+</resources>
